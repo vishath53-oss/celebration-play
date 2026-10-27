@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Private media folders (Prevent exposing personal photos and videos in public repositories)
+savitha alone/
+savitha grp photo/
+savtiha videos/
+special photo/
+# Note: If your GitHub repository is PUBLIC, uncomment the line below to protect public/media/
+# public/media/
+
